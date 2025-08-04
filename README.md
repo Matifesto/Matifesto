@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Matifesto, That's the name i Go by on the internet hope U don't mind UwU!
 - 👀 I’m interested in App&Web-Development
-- 🌱 I’m currently learning Php and Back-end(web)
+- 🌱 I've complete International Web Developer At Sunrise Intitude (Full Stack)
+- My specialty is to use Mordern tool like different Ai ranging from ChatGPT, Canva, Grok, autopilot, GPTzero, Etc @w@
 - 📫 How to reach me raymatifesto126@gmail.com
 
 <!---
